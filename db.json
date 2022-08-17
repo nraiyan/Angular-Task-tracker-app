@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "Meeting Village Head",
+      "day": "August 16th at 1:30AM",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
